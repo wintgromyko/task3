@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+}
+h2, h3 {
+  text-align: center;
+}
+.background {
+  background: url("../images/header-bg.png") no-repeat;
+  height: 0;
+  background-size: cover;
+  position: relative;
+  padding-top: 15%;
+}
+ul,li {
+  display: inline;
+  margin-right: 20px;
+  }
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.nav {
+  float: right;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+body {
+  background-color: #d3d3d3;
+}
+footer {
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  height: 50px;
+}
+.form {
+  margin-top: 80px;
+  margin-bottom: 100px;
+
+}
+
+
+
